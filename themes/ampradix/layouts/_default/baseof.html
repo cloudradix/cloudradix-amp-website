@@ -1,0 +1,21 @@
+<!doctype html>
+<html ⚡="">
+    {{- partial "head.html" . -}}
+    <body class="www-index-page">
+  <div class="hide">
+    <svg width="0" height="0">
+        <defs>
+          <linearGradient id="svg-gradient">
+           <stop offset="0%" class="start"></stop>
+           <stop offset="100%" class="stop"></stop>
+          </linearGradient>
+        </defs>
+    </svg>
+  </div>
+        {{- partial "header.html" . -}}
+        <div id="content">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

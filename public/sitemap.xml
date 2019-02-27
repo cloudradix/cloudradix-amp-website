@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cloudradix.com/404/</loc>
+    <lastmod>2019-02-11T18:56:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/404/</loc>
+    <lastmod>2019-02-11T18:56:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/get-started/</loc>
+    <lastmod>2019-02-11T09:05:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/progressive-web-apps/</loc>
+    <lastmod>2019-02-11T09:00:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/accelerated-mobile-pages/</loc>
+    <lastmod>2019-02-11T09:00:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/</loc>
+    <lastmod>2019-02-11T18:56:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

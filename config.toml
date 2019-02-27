@@ -1,0 +1,5 @@
+baseURL = "https://cloudradix.com/"
+languageCode = "en-us"
+title = "Cloud Radix"
+theme = "ampradix"
+
