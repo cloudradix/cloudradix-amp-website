@@ -3,9 +3,9 @@ title: "Get Started"
 date: 2019-02-11T09:05:55-05:00
 draft: false
 Description: ""
-featured_image: 'https://firebasestorage.googleapis.com/v0/b/appsradix.appspot.com/o/images%2Fget-started-header.jpg?alt=media&token=bee43e3c-7302-4f0e-babd-10d008e7fc9b'
+featured_image: '../get-started-header.jpg'
 ---
-<amp-img class="" src="https://firebasestorage.googleapis.com/v0/b/appsradix.appspot.com/o/images%2Fget-started-header.jpg?alt=media&token=bee43e3c-7302-4f0e-babd-10d008e7fc9b" width="1920" height="734" alt="Get Started at Cloud Radix Website Design Company" title="Start a conversation about your next website project" layout="responsive">
+<amp-img class="" src="../get-started-header.jpg" width="1920" height="734" alt="Get Started at Cloud Radix Website Design Company" title="Start a conversation about your next website project" layout="responsive">
 </amp-img>
 <h1 class="h2 col-10 mx4 pb3 pt3">Get Started</h1>
 <a href="tel:2603330483" class="ampstart-btn ampstart-btn-secondary caps inline-block mb4 mx4 pb3">260.577.3009</a>
@@ -20,7 +20,7 @@ featured_image: 'https://firebasestorage.googleapis.com/v0/b/appsradix.appspot.c
   frameborder="0"
   src="https://docs.google.com/forms/d/e/1FAIpQLSckzFKuHwWHmsvSSU8PbRZkHwrryoc2PGWfgT7Y9xuaMpuP3w/viewform">
   <amp-img layout="fill"
-    src="https://firebasestorage.googleapis.com/v0/b/appsradix.appspot.com/o/images%2Fcontact-form-image.jpg?alt=media&token=9b7e97b7-c7bf-49b7-b403-f119b329d62c"
+    src="../contact-form-image-placeholder.jpg"
     placeholder></amp-img>
 </amp-iframe>
 <p class="col-10 mx3 pb1 pt1"></p>
