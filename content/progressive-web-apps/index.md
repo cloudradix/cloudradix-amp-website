@@ -1,5 +1,5 @@
 ---
-title: "Progressive Web Apps | Cloud Radix"
+title: "Progressive Web Apps - Website Developer | Cloud Radix"
 date: 2019-02-11T09:00:56-05:00
 draft: false
 Description: "Progressive Web Apps offer the best user experiences found on the web by combining the website and mobile into one - improved - solution."
@@ -7,6 +7,7 @@ featured_image: '../progressive-web-apps-header.jpg'
 ---
 <amp-img class="" src="../progressive-web-apps-header.jpg" width="1920" height="712" alt="Progressive Web Apps Design by Cloud Radix" title="Progressive Web Apps Design by Cloud Radix" layout="responsive">
 </amp-img>
+<small><a href="/" class="ml1">Home</a> | <strong>Progressive Web Apps</strong></small>
 <h1 class="h2 col-10 mx4 pb3 pt3">Progressive Web Apps</h1>
 {{< cta >}}
 {{< share >}}

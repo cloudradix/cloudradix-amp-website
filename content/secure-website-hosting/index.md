@@ -5,7 +5,7 @@ draft: false
 Description: "Cloud Radix offers 100% FREE & SECURE website hosting for all current clients. No SSL Certificate fees, no setup fees, no hosting fees, no maintenance fees - period."
 featured_image: '../get-started-header.jpg'
 ---
-<div id="content">
+<div>
 
 <amp-img class="" src="../get-started-header.jpg" width="1920" height="734" alt="Get Free & Secure Website Hosting with Cloud Radix image" title="100% FREE & SECURE Website Hosting for all current Cloud Radix website clients." layout="responsive">
 </amp-img> 
@@ -15,17 +15,19 @@ featured_image: '../get-started-header.jpg'
 <h2 class="h3 col-10 mx4 pb1 pt1" id="free-website-hosting">Free Website Hosting</h2>
 
 <p class="col-10 mx4 pb2">All current Cloud Radix website clients get <strong>100% free website hosting</strong>. </p>
-<ul class="col-10 mx4 pb1">
+
+<ul>
   <li>Free website hosting</li>
   <li>Free SSL certificate</li>
   <li>Free SSL provisioning for your domain</li>
   <li>No annual web hosting, SSL certificate or provisioning fees - period</li>
 </ul>
 
+
 <span class="col-10 mx4"><a href="/get-started" class="ampstart-btn caps inline-block mb1">Get Started</a><span><span class="col-10 mx4"><a href="tel:2605773009" class="ampstart-btn caps inline-block mb1">260.577.3009</a><br> </span>
 <small>
 <p class="col-10 mx4">Page Content</p>
-<ul class="col-10 mx4 pb2">
+<ul>
   <li><a href="#why-should-my-website-hosting-be-secure">Why should my website hosting be secure?</a></li>
   <ul>
     <li><a href="#https-protects-website-integrity">HTTPS protects website integrity</a></li>
@@ -40,6 +42,7 @@ featured_image: '../get-started-header.jpg'
   layout="responsive"
   data-param-modestbranding="1"
   data-param-rel="1"
+  title="Why HTTPS websites according to Google"
   data-videoid="iP75a1Y9saY">
 </amp-youtube>
 <p class="col-10 mx4 pb1 pt1"></p>

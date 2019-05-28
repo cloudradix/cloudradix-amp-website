@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html ⚡=""><head>
+<html ⚡="" lang="en"><head>
   <meta charset="utf-8">
   <title>Accelerated Mobile Pages  - Website Developer | Cloud Radix</title>
   <link rel="canonical" href="https://cloudradix.com/accelerated-mobile-pages/">
@@ -48,9 +48,9 @@
 <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
 <script custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js" async></script>
 <script custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js" async></script>
-<script custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js" async></script>
-<script custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js" async></script>
 <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
+<script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
 
 
 
@@ -68,9 +68,6 @@ amp-selector amp-img[option] {
 /* normal opacity for the selected thumbnail */
 amp-selector amp-img[option][selected] {
   opacity: 1;
-}
-.ampstart-image-fullpage-hero {
-  overflow: hidden;
 }
 </style>
 <script type="application/ld+json">
@@ -127,8 +124,8 @@ amp-selector amp-img[option][selected] {
   "name": "Accelerated Mobile Pages website example by Cloud Radix",
   "description": "In this video screencast, we present one of the most recent Accelerated Mobile Pages websites built by Cloud Radix for client Squiller & Hamilton, LLP. The video shows the website on multiple devices and shows a Lighthouse audit showing the website quality scores in categories of performance, accessibility, best practices and SEO.",
   "thumbnailUrl": "https://cloudradix.com/squiller-hamilton-screencast.jpg",
-  "uploadDate": "2017-02-17T10:00:00+08:00",
-  "duration": "PT1M54S",
+  "uploadDate": "2019-02-17T10:00:00+08:00",
+  "duration": "PT2M26S",
   "publisher": {
 	"@type": "Organization",
 	"name": "Cloud Radix",
@@ -145,30 +142,6 @@ amp-selector amp-img[option][selected] {
 
 </head>
 <body>
-	<amp-animation trigger="visibility" layout="nodisplay">
-    <script type="application/json">
-      {
-        "target": "heroimage",
-        "duration": 30000,
-        "delay": 0, 
-        "fill": "forwards",
-        "easing": "ease-out",
-        "keyframes": {"transform":  "scale(1.3)"}
-      }
-      </script>
-	</amp-animation>
-	<amp-animation trigger="visibility" layout="nodisplay">
-    <script type="application/json">
-      {
-        "target": "heroimage1",
-        "duration": 30000,
-        "delay": 0, 
-        "fill": "forwards",
-        "easing": "ease-out",
-        "keyframes": {"transform":  "scale(1.3)"}
-      }
-      </script>
-</amp-animation>
 
 <!-- Start Navbar -->
   <header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4 ">
@@ -216,7 +189,7 @@ amp-selector amp-img[option][selected] {
         </span>
       </h1>
       <span class="ampstart-image-credit h4">
-        By <a href="#" role="author" class="text-decoration-none">Ken W. Button</a>,<br> February 17, 2019
+        By <span class="text-decoration-none">Ken W. Button</span>,<br> February 17, 2019
       </span>
     </header>
     <footer class="absolute left-0 right-0 bottom-0">
@@ -225,6 +198,7 @@ amp-selector amp-img[option][selected] {
   </figcaption>
 </figure>
 <main id="content">
+  <small><a href="/" class="ml1">Home</a> | <strong>Accelerated Mobile Pages</strong></small>
 <h2 class="px3 pt2 mb2">What are Accelerated Mobile Pages? </h2>
 <p class=" mb4 px3">Accelerated Mobile Pages or AMP for short, is an open-source library that provides a straightforward way to create web pages that are compelling, smooth, and load near instantaneously for users. Websites using AMP are providing the best user experiences the web has ever seen. AMP websites help improve search results, get more website traffic and have higher conversion rates than traditional websites all other things being equal.</p>
 <h3 class="col-10 mx3 pb1 pt1">Share Page</h3>
@@ -241,15 +215,20 @@ amp-selector amp-img[option][selected] {
 	<li>An AMP page is created for every Non-AMP page of a website.  The Non-AMP page(s) will contain links to their respective AMP versions within the code's meta data.</li>
 </ol>
 <h2 class="px3 pt2 mb2">Why you should consider using AMP</h2>
-<h3 class="px3 pt2 mb2">Higher Performance Equals Better Website Results</h3>
+<h3 class="px3 pt2 mb2"><em>Better Website Results</em></h3>
 <amp-img 
-  class="px3 pt2 mb2"
-  layout="responsive" width="1080" height="720"
-  srcset="../amp-website-speed-image-1080x720-01.jpg 1080w, ../amp-website-speed-image-720x480-02.jpg 720w" 
-  alt="Photo of speedometer to illustrate AMP websites are high speed">
+  class="pt2 mb2"
+  layout="responsive" width="1920" height="1080"
+  src="../amp-article-image-1920x1080-16x9.jpg"
+  alt="Accelerated Mobile Pages Instant Loading Image">
 </amp-img>
 <h3 class="px3 pt2 mb2">Better Performance Improves User Retention</h3>
 <p class=" mb4 px3"><a href="https://developers.google.com/web/progressive-web-apps#fast">53% of users abandon websites</a> that do not load in 3 seconds or less on mobile networks. Over half of potential website visitors 'bounce' (abandon) on websites they click from search on mobile networks.  Worse yet, the average load time of websites today on mobile networks is <a href="https://think.storage.googleapis.com/docs/mobile-page-speed-new-industry-benchmarks.pdf">22 seconds</a>! Meanwhile, <strong>AMP websites provide near instant page loading speeds</strong>, giving users a smooth, more engaging experience on mobile and desktop; helping retain your website users <em>and</em> potential users.</p>
+<amp-twitter width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1102598129650724864">
+</amp-twitter>
 <h3 class="px3 pt2 mb2">Better Performance Means More Conversions</h3>
 <p class=" mb4 px3"><a href="https://www.ampproject.org/case-studies/">Case Studies</a> from large companies such as <a href="https://www.ampproject.org/case-studies/cnbc/">CNBC</a>, <a href="https://www.ampproject.org/case-studies/washingtonpost/">The Washington Post</a>, <a href="https://www.ampproject.org/case-studies/gizmodo/">Gizmodo.com</a> and <a href="https://www.ampproject.org/case-studies/wired/">Wired.com</a> show <strong>huge improvements in conversion rates</strong>. Smaller business websites built in AMP are also showing huge improvements in conversion rates.  <a href="https://squillerandhamilton.com">Squiller & Hamilton, LLP</a> ditched their WordPress website for an all new Cloud Radix developed canonical AMP website in the fourth quarter of 2018.  Previously, they were getting zero (0) lead submissions through their website.  Today, with the new AMP website, they are averaging 8-12 lead submissions for legal work each and every month. Watch the short video clip below to see their all new website and the objective third party website quality audit performed using Lighthouse.  The Lighthouse website quality auditing report shows how well AMP performs and how seriously we take website quality at Cloud Radix.</p>
 <h4 class="px3 pt2 mb2">Accelerated Mobile Pages website example by Cloud Radix</h4>
