@@ -30,5 +30,3 @@ featured_image: '/amp-header-3436x1800.jpg'
 </amp-img>
 <h3 class="h4 col-10 mx4 pb3 pt3" id="lower-cost">One Time, Low Payment</h3>
 <p class="col-10 mx3 pb1 pt1">Cloud Radix AMP websites range in price from $2,500 to $5,000. We provide extensive peripheral work at <strong>no additional cost</strong> such as setting up Google My Business, configuring Google Search Console, setting up Google Analyitcs and even setting up Social Media Automation! If that's not enough, we even include <strong>100% FREE & SECURE website hosting.</strong></p>
-{{< cta >}}
-{{< share >}}

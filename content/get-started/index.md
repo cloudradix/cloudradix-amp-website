@@ -26,4 +26,4 @@ featured_image: '../get-started-header.jpg'
 </amp-iframe>
 <p class="col-10 mx3 pb1 pt1"></p>
 
-{{< share >}}
+{{< cta >}}
