@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cloudradix.com/thank-you/</loc>
+    <lastmod>2019-03-31T20:16:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cloudradix.com/privacy-policy/</loc>
+    <lastmod>2019-03-24T03:31:30-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cloudradix.com/get-started/</loc>
     <lastmod>2019-02-11T09:05:55-05:00</lastmod>
   </url>
@@ -44,7 +54,7 @@
   
   <url>
     <loc>https://cloudradix.com/</loc>
-    <lastmod>2019-02-11T09:05:55-05:00</lastmod>
+    <lastmod>2019-03-31T20:16:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   

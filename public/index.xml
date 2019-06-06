@@ -6,10 +6,30 @@
     <description>Recent content on Cloud Radix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Feb 2019 09:05:55 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2019 20:16:22 -0400</lastBuildDate>
     
 	<atom:link href="https://cloudradix.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thank You</title>
+      <link>https://cloudradix.com/thank-you/</link>
+      <pubDate>Sun, 31 Mar 2019 20:16:22 -0400</pubDate>
+      
+      <guid>https://cloudradix.com/thank-you/</guid>
+      <description>Thank You! Your contact form submission has been sent. One of our representatives will be in touch with you shortly.
+  </description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://cloudradix.com/privacy-policy/</link>
+      <pubDate>Sun, 24 Mar 2019 03:31:30 -0400</pubDate>
+      
+      <guid>https://cloudradix.com/privacy-policy/</guid>
+      <description>Privacy Policy This privacy policy discloses the privacy practices for the Cloud Radix website: https://cloudradix.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. What choices are available to you regarding the use of your data. The security procedures in place to protect the misuse of your information.</description>
+    </item>
     
     <item>
       <title>Get Started | Cloud Radix</title>
@@ -38,7 +58,7 @@ Submit Project Details   Discuss Project260.577.3009 </description>
       <pubDate>Mon, 11 Feb 2019 09:00:56 -0500</pubDate>
       
       <guid>https://cloudradix.com/progressive-web-apps/</guid>
-      <description>Home | Progressive Web Apps Progressive Web Apps Discuss Project260.577.3009 Share Page Progressive Web Apps (PWAs) combine the best of a website and the best of a mobile app into one superior solution. They offer the best user experiences found on the web today! At Cloud Radix, we&amp;rsquo;ve been building PWA&amp;rsquo;s since inception in 2015. Progressive Web Apps are websites - they are just taken to the absolute highest level of quality possible in today&amp;rsquo;s web standards.</description>
+      <description>Home | Progressive Web Apps Progressive Web Apps Discuss Project260.577.3009 Share Page Progressive Web Apps (PWAs) combine the best of a website and the best of a mobile app into one superior solution. They offer the best user experiences found on the web today! At Cloud Radix, we&amp;rsquo;ve been building PWA&amp;rsquo;s since inception in 2015. Progressive Web Apps are websites - they are just taken to the absolute highest level of quality possible in today&amp;rsquo;s web standards.</description>
     </item>
     
     <item>
@@ -47,7 +67,7 @@ Submit Project Details   Discuss Project260.577.3009 </description>
       <pubDate>Mon, 11 Feb 2019 09:00:47 -0500</pubDate>
       
       <guid>https://cloudradix.com/accelerated-mobile-pages/</guid>
-      <description>Accelerated Mobile Pages Discuss Project260.577.3009 Share Page Why consider an AMP website? 53% of users abandon websites that do not load in 3 seconds or less on mobile networks. [Source]
+      <description>Accelerated Mobile Pages Discuss Project260.577.3009 Share Page Why consider an AMP website? 53% of users abandon websites that do not load in 3 seconds or less on mobile networks. [Source]
 Since the average mobile website takes on average 19 seconds to render on mobile networks, most websites lose over half their potential viewers due to slow website speeds.
 AMP websites are blazing fast Accelerated Mobile Pages websites make for an amazing user experience due to the raw speed.</description>
     </item>
